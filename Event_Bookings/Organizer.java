@@ -1,3 +1,4 @@
+package Event_Bookings;
 public class Organizer extends User {
     private boolean active = true;
 

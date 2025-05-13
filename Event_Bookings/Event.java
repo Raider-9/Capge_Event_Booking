@@ -1,5 +1,5 @@
 //import java.io.Serializable;
-
+package Event_Bookings;
 public class Event  {
     private String title;
     private int availableTickets;

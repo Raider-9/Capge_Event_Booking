@@ -1,3 +1,4 @@
+package Event_Bookings;
 public class Ticket {
     private Attendee attendee;
     private Event event;
